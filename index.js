@@ -5,7 +5,7 @@ const Discord = require('discord.js'),
     axios = require('axios').default,
     { token, id } = require('./config.json')
 
-    console.log('[By Fiji]')
+    console.log('[By Avidya]')
 
 utilisateur.login(token)
 
